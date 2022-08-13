@@ -1,0 +1,19 @@
+{
+  "version": "v0.1-BETA",
+  "dev": "Kalvin & Mardy",
+  "credit": "Powered by PugeAPI (api.pugepe.com)",
+  "discord_server": "https://web.pugepe.com/discord",
+    "endpoints": {
+      "puge_info": [
+        "GET /pugepe/stats?key={KEY}"
+      ],
+      "misc": [
+        "GET /misc/joke",
+        "GET /misc/fact",
+        "GET /misc/quote"
+      ],
+      "anime": [
+        "GET /anime/quote"
+      ],
+    }
+}
